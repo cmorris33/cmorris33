@@ -1,4 +1,4 @@
-<h1>Hi, I'm Curtis, an <a href="https://www.linkedin.com/in/curtis-morris124">IT Professional</a>☺</h1>
+<h1>Hi, I'm Curtis, an <a href="https://www.linkedin.com/in/curtis-morris124">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
